@@ -17,7 +17,7 @@ We want to collect:
 
 First, build an API server that accepts a payload with customer information, as outlined above. Again, you may use whatever technology choice you’d like.
 
-When the payload has been collected, the back-end needs to communicate the data to you. Your co-founders haven’t decided how they want to track the information yet, so your back-end should do any combination of the following:
+When the payload has been collected, the back-end needs to communicate the data to you. Your co-founders haven’t decided how they want to track the information yet, so your back-end can do one or more of the following things:
 
 1. Email it to you, the founder
 2. Send it to your Slack workspace
